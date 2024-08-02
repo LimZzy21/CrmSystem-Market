@@ -1,0 +1,58 @@
+<div class="container-fluid w-25  flex-column d-flex justify-content-center" style="height: 79vh;">
+    <div class="text-center">
+        <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/keyboard_key_c.png"
+            width="25%" alt="">
+    </div>
+    <form [formGroup]="createUserForm">
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">User Name</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" formControlName="userName" name="userName">
+            <div class="error"
+                *ngIf="createUserForm.controls['userName'].invalid && createUserForm.controls['userName'].touched">
+                required!
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">last name</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" formControlName="userLastName"
+                name="userLastName">
+            <div class="error"
+                *ngIf="createUserForm.controls['userLastName'].invalid && createUserForm.controls['userLastName'].touched">
+                required!
+            </div>
+
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" class="form-control" name='email' formControlName="email" id="exampleInputPassword1">
+            <div class="error"
+                *ngIf="createUserForm.controls['email'].invalid && createUserForm.controls['email'].touched">
+                required!
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password</label>
+            <input type="password" class="form-control" name='password' formControlName="password"
+                id="exampleInputPassword1">
+            <div class="error"
+                *ngIf="createUserForm.controls['password'].invalid && createUserForm.controls['password'].touched">
+                required 8 characters!
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Company (optional)</label>
+            <input type="text" class="form-control" name='password' formControlName="company"
+                id="exampleInputPassword1">
+
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Location (example:Ukraine, Lviv)</label>
+            <input type="text" class="form-control" name='password' formControlName="location"
+                id="exampleInputPassword1">
+
+        </div>
+        <button type="submit" class="btn btn-primary" (click)="onSignUp()">Sign Up!</button>
+                <p class="text-end"><a class="link-opacity-100" routerLink="/login">Already have acc</a></p>
+
+    </form>
+</div>

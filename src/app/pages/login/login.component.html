@@ -1,0 +1,23 @@
+
+<div class="container-fluid w-25 flex-column d-flex justify-content-center " style="height: 70vh;">
+    <div class="text-center">
+        <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/keyboard_key_c.png"
+            width="50%" alt="">
+</div>
+    <form [formGroup]="loginForm">
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Email</label>
+            <input type="email" class="form-control border" id="exampleInputEmail1" formControlName="email" name="email" >
+            
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password</label>
+            <input type="password" class="form-control border" name='password' formControlName="password"  id="exampleInputPassword1">
+        </div>
+        
+        <button type="submit" class="btn btn-primary" (click)="onLogin()">Submit</button>
+        <br>
+        <p class="text-end"><a class="link-opacity-100" routerLink="/signup">Register</a></p>
+    </form>
+</div>
+

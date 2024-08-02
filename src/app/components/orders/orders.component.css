@@ -1,0 +1,27 @@
+   .status-complete {
+       color: green;
+   }
+
+   .status-pending {
+       color: orange;
+   }
+
+   .status-cancelled {
+       color: red;
+   }
+
+   .table-actions {
+       cursor: pointer;
+   }
+
+   .pagination {
+       justify-content: center;
+   }
+
+::ng-deep {
+    .ngx-pagination {
+        display: flex;
+        background-color: black;
+        padding: 0;
+    }
+}

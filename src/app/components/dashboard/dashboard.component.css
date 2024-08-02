@@ -1,0 +1,11 @@
+.db-general-container{
+   gap: 2%
+}
+
+.db-item{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: aqua;
+    width: fit-content;
+    
+}

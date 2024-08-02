@@ -1,0 +1,70 @@
+<div class="container d-flex align-center justify-content-center text-center">
+    <form class=" w-50 mt-4" [formGroup]="editUser" (ngSubmit)="submitEdit()">
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Id</span>
+            <input type="text" class="form-control" formControlName="id" aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default">
+        </div>
+
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Name</span>
+            <input type="text" class="form-control" formControlName="userName" aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default">
+        </div>
+
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Surname</span>
+            <input type="text" class="form-control" formControlName="userLastName" aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default">
+        </div>
+
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Email</span>
+            <input type="text" class="form-control" formControlName="email" aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Location</span>
+            <input type="text" class="form-control" formControlName="location" aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Company</span>
+            <input type="text" class="form-control" formControlName="company" aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default">
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Employee</span>
+
+            <div class="btn-group ms-3" role="group" *ngIf="isProfile" aria-label="Basic radio toggle button group">
+
+                <input type="checkbox" class="btn-check " id="btncheck1" autocomplete="off">
+                <label class="btn btn-outline-primary"
+                    [ngClass]="{'notEmployee':editUser.value.isEmployee==false,'Employee':editUser.value.isEmployee == true}"
+                    (click)="toggleEmployee()" for="btncheck1">{{isEmployeeFunc()}}</label>
+
+            </div>
+            <div class="btn-group ms-3" *ngIf="!isProfile" role="group" aria-label="Basic radio toggle button group">
+
+                <input type="checkbox" class="btn-check" id="btncheck1" autocomplete="off">
+                <label class="btn btn-outline-primary" *ngIf="isAdmin" (click)="toggleEmployee()"
+                    [ngClass]="{'notEmployee':editUser.value.isEmployee==false,'Employee':editUser.value.isEmployee == true}"
+                    for="btncheck1">{{isEmployeeFunc()}}</label>
+                <label class="btn btn-outline-primary" *ngIf="!isAdmin"
+                    [ngClass]="{'notEmployee':editUser.value.isEmployee==false,'Employee':editUser.value.isEmployee == true}"
+                    for="btncheck1">{{isEmployeeFunc()}}</label>
+
+            </div>
+        </div>
+
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Position</span>
+            <input type="text" class="form-control" formControlName="position" aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default">
+        </div>
+
+        <button *ngIf="!isProfile" class="btn btn-primary" type="submit">Submit</button>
+        <button *ngIf="isProfile" class="btn btn-primary" (click)="gotoEdit()" type="submit">Edit</button>
+
+    </form>
+</div>

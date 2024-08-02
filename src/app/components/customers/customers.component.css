@@ -1,0 +1,15 @@
+.employee{
+    width: fit-content;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 5px;
+    padding-top: 3%;
+}
+
+.active{
+    border: 1px solid;
+}
+
+.deactive{
+    border: none;
+}

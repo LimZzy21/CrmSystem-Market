@@ -1,0 +1,13 @@
+<div class="container-fluid  row ">
+
+        <div *ngFor="let item of products" class="card p-3 m-2 " style="width: 18rem">
+            <img src={{item.img}} [routerLink]="item.id" class="card-img-top link" style="max-height: 36rem;">
+            <div class="card-body">
+                <h5 class="card-title link" [routerLink]="item.id">{{item.title}}</h5>
+                <p class="card-text details">{{item.details}}</p>
+                
+            </div>
+            <h4 class="m-2">{{item.price |currency:'₴' }}</h4>
+        </div>
+    
+</div>

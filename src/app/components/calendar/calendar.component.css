@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    margin-top: 1%;
+}
+
+.calendarItem{
+    height: 3.5cm;
+}
+
+p{
+    height: fit-content;
+}
+.arrow{
+    cursor: pointer;
+    color: skyblue;
+}
+
+.taskDeadline{
+    height: fit-content;
+    min-height: 3rem;
+    background-color: rgb(0, 255, 170);
+}
+
+.taskDeadline > p{
+    border-left: 4px solid white;
+    margin: 1%;
+    border-radius: 5px;
+    
+}
+
+.modal{
+    position: fixed;
+    top: 20%;
+    left: 40%;
+}
+
+.goTask:hover{
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+.goTask{
+    color: rgb(112, 112, 112);
+    transition: 0.2s ease-in-out;
+}

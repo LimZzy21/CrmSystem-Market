@@ -1,0 +1,64 @@
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Order Management</h2>
+        
+    </div>
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Search anything" aria-label="Search anything">
+       
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Order ID</th>
+                <th>Date</th>
+                <th>Price</th>
+                <th>Address</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let order of orderList | paginate:{ itemsPerPage: 2, currentPage:p} index as i ">
+                <td>{{i}}</td>
+                <td>{{order.id}}</td>
+                <td>{{order.date}}</td>
+                <td>{{order.sum}}₴</td>
+                <td>{{order.address}}</td>
+                <td [ngClass]="{'status-cancelled':order.status == 'Cancelled','status-pending':order.status == 'In progress', 'status-complete':order.status == 'Succsess'}">{{order.status}}</td>
+                <td>
+                    <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            Actions
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-white">
+                            <li>
+                                <input type="checkbox" class="btn-check" id="btncheck1" autocomplete="off">
+                                <label class="btn text-black" (click)="editOrder(order.id)" for="btncheck1">Edit Order</label>
+                            </li>
+                            <li>
+                                <input type="checkbox" class="btn-check" id="btncheck2" autocomplete="off">
+                                <label class="btn text-black" (click)="removeOrder(order.id)" for="btncheck2">Delete</label>
+                            </li>
+                        </ul>
+                    </div>
+                   
+                </td>
+            </tr>
+            <!-- Add more rows as needed -->
+        </tbody>
+    </table>
+    <nav class="text-center ps-0 pag" >
+        <!-- <ul class="pagination">
+            <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item"><a class="page-link" href="#">Next</a></li>
+        </ul> -->
+            <pagination-controls  (pageChange)="p = $event"></pagination-controls>
+    </nav>
+</div>

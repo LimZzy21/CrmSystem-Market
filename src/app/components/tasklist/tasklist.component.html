@@ -1,0 +1,98 @@
+<div class="container-fluid row m-3">
+    <ul class="nav nav-underline">
+
+        <li class="nav-item" (click)="onTabChange(0)">
+            <a class="nav-link" [class.active]="activeTab == 0">Active</a>
+        </li>
+        <li class="nav-item" (click)="onTabChange(1)">
+            <a class="nav-link" [class.active]="activeTab == 1">Done</a>
+        </li>
+        <li class="nav-item" (click)="onTabChange(2)">
+            <a class="nav-link" [class.active]="activeTab == 2">Create task</a>
+        </li>
+    </ul>
+    <div class="col-12" *ngIf="activeTab === 2">
+        <h1>Create Task</h1>
+        <form class="row g-3" [formGroup]="addTaskForm">
+            <div class="col-md-6">
+                <label for="title" class="form-label">Title</label>
+                <input type="text" placeholder="Enter title" formControlName="title" class="form-control" id="title">
+                <div class=" mt-2 error"
+                    *ngIf="addTaskForm.controls['title'].invalid && (addTaskForm.controls['title'].touched) ">
+                    required!
+                </div>
+            </div>
+            <div class="col-md-6">
+                <label for="deadline" class="form-label">Deadline</label>
+                <input type="date" placeholder="DD-MM-YYYY" formControlName="deadline" class="form-control"
+                    id="deadline">
+
+            </div>
+            <div class="col-12">
+                <select formControlName="projectName" class="form-select" aria-label="Default select example">
+                    <option value="CRMate">CRMate</option>
+                    <option value="CRMarket">CRMarket</option>
+
+                </select>
+            </div>
+            <div class="col-12 form-floating">
+
+                <div>
+                    <textarea class="form-control" formControlName="description" placeholder="Description"
+                        id="floatingTextarea2" style="height: 100px"></textarea>
+                    <div class=" mt-2 error"
+                        *ngIf="addTaskForm.controls['description'].invalid && (addTaskForm.controls['description'].touched)">
+                        Minimum 16 characters
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12">
+                <button type="submit" (click)="createTask()" class="btn btn-primary">Create!</button>
+            </div>
+        </form>
+    </div>
+
+    <div class="row container col-10" *ngIf="activeTab !==2">
+        <h1>Tasks</h1>
+        <div class="col-12 row">
+
+            <div class="col container border rounded taskItems me-2" >
+                <p>CRMarket</p>
+                <div class="row border rounded mb-1 m-1 taskItem" *ngFor="let taskByProj of getTaskByProj('CRMarket')">
+                
+                    <h5 class="col-6">{{taskByProj.title}}</h5>
+                    <h6 class="col-5 ">Deadline: {{taskByProj.deadline}}</h6>
+                    <div class="checkbox col-1 ">
+                        <input type="checkbox" id="cb" [checked]="taskByProj.isDone" (change)="markAsDone(taskByProj.id)" />
+                    </div>
+                 
+                </div>
+            </div>
+            <div class="col container border rounded taskItems" >
+                <p>CRMate</p>
+                <div class="row border rounded mb-1 m-1 taskItem" *ngFor="let taskByProj of getTaskByProj('CRMate')">
+                    
+                    <h5 class="col-6">{{taskByProj.title}}</h5>
+                    <h6 class="col-5 ">Deadline: {{taskByProj.deadline}}</h6>
+        
+                    <div class="checkbox col-1 ">
+                        <input type="checkbox" id="cb" [checked]="taskByProj.isDone"
+                            (change)="markAsDone(taskByProj.id)" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+
+        </div>
+    </div>
+    <div class="col-2 row " *ngIf="activeTab !=2">
+        <div class="col-12 d-flex flex-column db-item">
+            <h4>{{tasksDetails.completed}} Complete tasks</h4>
+            <h4>{{tasksDetails.inProgress}} Uncomplete tasks</h4>
+            <h4>{{tasksDetails.overdue}} Overdue tasks</h4>
+        </div>
+    </div>
+</div>

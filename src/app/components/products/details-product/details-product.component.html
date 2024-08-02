@@ -1,0 +1,17 @@
+<div class="container-fluid mt-3 ">
+
+    <div class="row">
+        <h2>{{product.title}}</h2>
+        <div class="col-6">
+            <img src={{product.img}} class="img-fluid " style="max-width: 40rem;max-height: 60rem;">
+            <div>
+                <p class="w-75">{{product.details}}</p>
+            </div>
+        </div>
+        <div class="col-4 mt-3 text-end ">
+        <button type="button" (click)="addToCart()" class="btn btn-success"><h4><i class="bi bi-cart"></i> Add to cart</h4></button>
+        
+        </div>
+    </div>
+
+</div>

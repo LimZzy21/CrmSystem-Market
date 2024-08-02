@@ -1,0 +1,20 @@
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-6 ">
+            <h4>{{ order.name }}</h4>
+            <p>Address: {{ order.address }}</p>
+            <p>Tel: {{ order.tel }}</p>
+            <p>Sum: <strong>{{ order.sum }}</strong></p>
+        </div>
+        <div class="col">
+            <div class="" *ngFor="let keyValue of order | keyvalue">
+                <div *ngIf="isOrderItem(keyValue.value)">
+                    <p>{{ keyValue.value.title }}</p>
+                    <img [src]="keyValue.value.img" alt="{{ keyValue.value.title }}" width="100">
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

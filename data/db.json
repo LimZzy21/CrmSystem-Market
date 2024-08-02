@@ -1,0 +1,1065 @@
+{
+  "category": {
+    "pc": [
+      "Monitors",
+      "Tablets",
+      "PC",
+      "Laptops",
+      "Computer components",
+      "Cabels & adapters",
+      "Headphones & accessories",
+      "Software",
+      "Microphones",
+      "Network equipment"
+    ],
+    "electronic": [
+      "Smartphones",
+      "TVs",
+      "Camera",
+      "Accessories for Smartphones",
+      "Game consoles",
+      "Audio technic",
+      "Refrigerators",
+      "Kitchen",
+      "Care and cleaning",
+      "Conditioner"
+    ],
+    "home": [
+      "Furniture",
+      "Dishes",
+      "Lighting"
+    ],
+    "tools": [
+      "Tools",
+      "Equipment",
+      "Car products",
+      "Electrical installation equipment"
+    ],
+    "plumbing": [
+      "Baths",
+      "Sinks, mixers",
+      "Keramic",
+      "Consumables"
+    ],
+    "dacha": [
+      "Garden machinery",
+      "Garden tools",
+      "Plants and care",
+      "Swimming pools"
+    ]
+  },
+  "monitors": [
+    {
+      "title": " Монитор 27 Samsung Odyssey AG50 S27AG502NI (LS27AG502PIXCI)",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/248368726.jpg",
+      "price": 9999,
+      "details": "Частота оновлення:165 Гц Діагональ дисплея:27 Максимальна роздільна здатність дисплея:2560x1440 (2K QHD):Час реакції матриці:1 мс (GTG):Яскравість дисплея: 350 кд/м2:Тип матриці",
+      "id": "6c7d"
+    },
+    {
+      "id": "8df1",
+      "title": "Монітор 27 Acer EK271EBI (UM.HE1EE.E02) IPS FHD / 100Hz / 1ms /",
+      "price": 4479,
+      "category": "monitors",
+      "details": "Частота оновлення          100 Гц  Діагональ дисплея          27 Максимальна роздільна здатність дисплея          1920x1080 (FullHD)  Час реакції матриці          1 ms (VRB) / 4 ms (GTG)  Вбудований тюнер          Немає  Яскравість дисплея          250 кд/м²  Тип матриці          IPS  Інтерфейси          VGA         HDMI",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/411231783.jpg"
+    },
+    {
+      "id": "0f6a",
+      "title": "Монітор 24\" MSI PRO MP243XW -- IPS FHD / 100Hz / 4ms GtG / 8-Bit /",
+      "price": 3699,
+      "category": "monitors",
+      "details": "Частота оновлення          100 Гц  Діагональ дисплея          23.8\"  Максимальна роздільна здатність дисплея          1920x1080 (FullHD)  Час реакції матриці          1ms (MPRT) / 4ms (GTG)  Яскравість дисплея          250  Тип матриці          IPS  Інтерфейси          DisplayPort",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/364501183.jpg"
+    }
+  ],
+  "tablets": [
+    {
+      "title": "  Планшет Apple iPad 10.2 2021 Wi-Fi 64 GB",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/224009737.jpg",
+      "price": 16499,
+      "details": "СеріяiPad 2021 Вид екрана Ємнісний Діагональ екрана: 10.2 Вбудована пам'ять64 ГБПокриття екранаОлеофобне покриттяБездротові можливостіBluetoothWi-FiОпераційна системаiPadOSКількість SIM-картВідсутніТип матриціIPSКраїна-виробникКитайЧастота процесорапонад 1.2 ГГцПроцесорApple A13 BionicРоздільна здатність екрана2160х1620Кількість ядер процесора6Навігаційна системаНемаєРоз'ємиLightning",
+      "id": "8aa9"
+    },
+    {
+      "id": "c2cf",
+      "title": " Планшет Apple iPad Pro 13\" M4 2024 Wi-Fi + Cellular 256GB Space Black (MVXR3NF/A)",
+      "price": 79499,
+      "category": "tablets",
+      "details": "Серія\n\n        iPad Pro 2024\n\nВид екрана\n\n        Ємнісний\n\nДіагональ екрана\n\n        13\"\n\nОперативна пам'ять\n\n        8 ГБ\n\nВбудована пам'ять\n\n        256 ГБ\n\nПокриття екрана\n\n        Олеофобне покриття\n\nБездротові можливості\n\n        3G (UMTS)\n        4G (LTE)\n        5G\n        Bluetooth\n        Wi-Fi",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/433552831.jpg"
+    },
+    {
+      "id": "9eb9",
+      "title": "Планшет Samsung Galaxy Tab S9 FE+ 5G 12/256GB Gray (SM-X616BZAESEK)",
+      "price": 30999,
+      "category": "tablets",
+      "details": "Серія          Galaxy Tab S  Вид екрана          Ємнісний  Діагональ екрана          12.4\"  Оперативна пам'ять          12 Гб  Вбудована пам'ять          256 ГБ",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/368600368.jpg"
+    }
+  ],
+  "pc": [
+    {
+      "title": "Комп'ютер ARTLINE Gaming X47 (X47v45) AMD Ryzen 5 5500 / 16ГБ DDR4 / HDD 1ТБ + SSD 480ГБ / nVidia GeForce RTX 3060 12 ГБ",
+      "img": "https://content.rozetka.com.ua/goods/images/big/320078659.jpg",
+      "price": 27999,
+      "details": "AMD Ryzen 5 5500 (3.6 - 4.2 ГГц)/RAM 16 ГБ/HDD 1 ТБ + SSD 480 ГБ/nVidia GeForce RTX 3060, 12 ГБ/без ОД/LAN/без ОС",
+      "id": "3049"
+    },
+    {
+      "id": "9f02",
+      "title": "Комп'ютер Expert PC Ultimate (I14600K.32.S1.4060.G12016) [101723]",
+      "price": 61000,
+      "category": "pc",
+      "details": "Процесор          Чотирнадцятиядерний Intel Core i5-14600KF (3.5 - 5.3 ГГц)  Відеокарта          GeForce GTX 1660 Super  Обсяг оперативної пам'яті          32 ГБ  Потужність БЖ          750 Вт  Розміри          431 х 413 х 215 мм мм  Комплект постачання          Комп'ютер • кабель живлення • документація  Додаткові можливості          Ні  Обсяг SSD          1 ТБ  Обсяг відеопам'яті          8 ГБ  Кількість ядер процесора          14  Тип відеокарти          Дискретна  Обсяг HDD          1 ТБ",
+      "img": "https://content.rozetka.com.ua/goods/images/big/419258861.jpg"
+    },
+    {
+      "id": "8d0d",
+      "title": " Комп'ютер Expert PC Ultimate (I11400F.16.H1S2.3060.C2436) [101735]",
+      "price": 38295,
+      "category": "pc",
+      "details": "Процесор          Шестиядерний Intel Core i5-11400F (2.6 — 4.4 ГГц)  Відеокарта          GeForce RTX 3060  Обсяг оперативної пам'яті          16 ГБ  Потужність БЖ          600 Вт  Розміри          450 х 390 х 205 мм мм  Комплект постачання          Комп'ютер • кабель живлення • документація  Обсяг SSD          1 ТБ  Обсяг відеопам'яті          12 ГБ  Кількість ядер процесора          6  Тип відеокарти          Дискретна  Обсяг HDD          1 ТБ  Колір          Чорний",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/419260352.jpg"
+    }
+  ],
+  "laptops": [
+    {
+      "title": "Ноутбук ASUS TUF Gaming A15 FA506NC-HN026 (90NR0JF7-M004N0) Graphite Black / 15.6 IPS Full HD 144 Гц / AMD Ryzen 5 7535HS / RAM 16 ГБ / SSD 1 ТБ / NVIDIA GeForce RTX 3050, 4 ",
+      "img": "https://content.rozetka.com.ua/goods/images/big/410768842.jpg",
+      "price": 33999,
+      "details": "Діагональ екрану15.6 Тип екрануIPSЧастота оновлення екрану144 ГцРоздільна здатність1920x1080Покриття екрануМатовеВбудована камера720P HDПроцесорПроцесорШестиядерний AMD Ryzen 5 7535HS (3.3 - 4.55 ГГц)Операційна системаБез ОСПокоління процесора AMDZen 3+Оперативна пам'ятьОбсяг оперативної пам'яті16 ГБТип оперативної пам'ятіDDR5Можливість апгрейду2 слоти оперативної пам'ятіХарактеристики оперативної пам'ятіDDR5-5600 SO-DIMM (макс. 32 ГБ)",
+      "id": "2529"
+    },
+    {
+      "id": "49f9",
+      "title": "Ноутбук Apple MacBook Pro 16\" M1 Pro 32/1TB 2021 (DTXRF01) Space Gray + USB флеш накопичувач Kingston DataTraveler Exodia M 64GB",
+      "price": 80000,
+      "category": "laptops",
+      "details": "Процесор          Десятиядерний Apple M1 Pro  Операційна система          macOS Monterey  Оперативна пам'ять  Обсяг оперативної пам'яті          32 ГБ  Накопичувачі даних  Обсяг SSD          1 ТБ  Кількість відсіків 2.5\" SATA для HDD/SSD          Без відсіків  Тип накопичувача          SSD  Відеокарта  Виробник відеокарти          Apple  Тип відеокарти          Інтегрована  Корпус  Ємність акумулятора, Вт год          100  Вага, кг          2.1",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/439131252.jpg"
+    },
+    {
+      "id": "423d",
+      "title": " Ноутбук ASUS Vivobook 15 X1502ZA-BQ646 (90NB0VX2-M00V70) Icelight Silver / 15.6\" IPS Full HD / Intel Core i3-1215U / RAM 12 ГБ / SSD 512 ГБ / Підсвітка клавіатури",
+      "price": 18499,
+      "category": "laptops",
+      "details": "ПроцесорШестиядерний Intel Core i3-1215U (3.3 - 4.4 ГГц)Операційна системаБез ОСПокоління процесора Intel12-е Alder LakeОперативна пам'ятьОбсяг оперативної пам'яті12 ГБТип оперативної пам'ятіDDR4Можливість апгрейду1 слот оперативної пам'ятіНакопичувачі данихОбсяг SSD512 ГБКількість слотів M.21Стандарт інтерфейсу SSD M.2PCI Express 4.0 x4Тип накопичувачаSSDВідеокартаВиробник відеокартиIntelТип відеокартиІнтегрован",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/298578166.jpg"
+    },
+    {
+      "id": "34fd",
+      "title": " Ноутбук Lenovo IdeaPad Gaming 3 15ACH6 (82K2028RRA) Shadow Black /",
+      "price": 27999,
+      "category": "laptops",
+      "details": "ПроцесорПроцесорЧотириядерний AMD Ryzen 5 5500H (3.3 - 4.2 ГГц)Операційна системаБез ОСПокоління процесора AMDZen 3Оперативна пам'ятьОбсяг оперативної пам'яті8 ГБТип оперативної пам'ятіDDR4Можливість апгрейду2 слоти оперативної пам'ятіХарактеристики оперативної пам'ятіDDR4-3200 МГцНакопичувачі данихОбсяг SSD512 ГБТип накопичувачаSSDВідеокартаВиробник відеокартиNvidiaДискретна відеокартаGeForce RTX 2050Обсяг пам'яті відеокарти4 ГБТип відеокартиДискретна",
+      "img": "https://content.rozetka.com.ua/goods/images/big/423964962.jpg"
+    },
+    {
+      "id": "df27",
+      "title": "Ноутбук Lenovo LOQ 15IRX9 (83DV00KRRA) Luna Grey",
+      "price": 54999,
+      "category": "laptops",
+      "details": "ПроцесорПроцесорЧотирнадцятидерний Intel Core i7-13650HX (3.6-4.9 ГГц)Операційна системаБез ОСПокоління процесора Intel13-е Raptor LakeОперативна пам'ятьОбсяг оперативної пам'яті16 ГБТип оперативної пам'ятіDDR5Можливість апгрейду2 слоти оперативної пам'ятіХарактеристики оперативної пам'ятіDDR5-4800 МГцНакопичувачі данихОбсяг SSD512 ГБТип накопичувачаSSDВідеокартаВиробник відеокартиNvidiaДискретна відеокартаGeForce RTX 4060Обсяг пам'яті відеокарти8 ГБТип відеокартиДискретна",
+      "img": "https://content.rozetka.com.ua/goods/images/big/423967865.jpg"
+    },
+    {
+      "id": "333a",
+      "title": "Nоутбук ASUS TUF Gaming F15 (2022) FX507ZC4-HN087 (90NR0GW1-M00HJ0) Mecha Gray",
+      "price": 37999,
+      "category": "laptops",
+      "details": "ЕкранДіагональ екрану15.6\"Тип екрануIPSЧастота оновлення екрану144 ГцРоздільна здатність1920x1080Покриття екрануМатовеПроцесорПроцесорДванадцятиядерний Intel Core i5-12500H (2.5 - 4.5 ГГц)Операційна системаБез ОСПокоління процесора Intel12-е Alder LakeОперативна пам'ятьОбсяг оперативної пам'яті16 ГБТип оперативної пам'ятіDDR4Можливість апгрейду2 слоти оперативної пам'ятіХарактеристики оперативної пам'ятіDDR4-3200 МГцНакопичувачі данихОбсяг SSD512 ГБКількість слотів M.22Тип накопичувачаSSDВідеокартаВиробник відеокартиNvidiaДискретна відеокартаGeForce RTX 3050Обсяг пам'яті відеокарти4 ГБТип відеокартиДискретна",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/376580914.jpg"
+    }
+  ],
+  "computercomponents": [
+    {
+      "id": "c1e4",
+      "title": "Характеристики Videocard GeForce RTX 4070 Ti 12GB GDDR6X Trinity OC White Edition",
+      "price": 40000,
+      "category": "computercomponents",
+      "details": "Частота пам'яті          21000  Частота ядра          2625 (Boost)  Система охолодження          активна  Обсяг пам'яті          12 ГБ  Максимально підтримувана роздільна здатність          7680x4320  Розрядність шини пам'яті          192 біт  Роз'єми          DisplayPort         HDMI  Інтерфейс          PCI-Express 4.0 x16  Розміри          306,8 x 119,4 x 58,5 мм  Тип пам'яті          GDDR6X  Додаткове живлення          16 pin  Гарантія          36 місяців",
+      "img": "https://content.rozetka.com.ua/goods/images/big/399211238.jpg"
+    }
+  ],
+  "cabels&adapters": [
+    {
+      "id": "0f17",
+      "title": " Bluetooth-адаптер RZTK BT 5.3",
+      "price": 250,
+      "category": "cabels&adapters",
+      "details": "Інтерфейс під'єднаного пристроюBluetoothРозміри14 х 14 х 0.5 ммСумісністьWindows 7/8.1/10/11Інтерфейс підключенняUSB 2.0ВидАдаптериВерсія BluetoothBluetooth 5.3КолірBlackКомплектаціяBluetooth-адаптерІнструкція з експлуатаціїКраїна-виробникКитайДодаткові характеристикиШвидкість передачі: до 3 Мбіт/сМаксимальний радіус дії без перешкод: до 20 мЧастота передачі: 2.403 - 2.480 ГГцЧіп: RTL8761BФункція Plug and PlayТехнологія Dual-mode Low PowerЗворотна сумісність з Bluetooth 2.0 / 2.1 / 3.0 / 4.0 / 4.1 / 4.2 / 5.0 / 5.1 / 5.2 / 5.3",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/385573851.jpg"
+    }
+  ],
+  "headphones&accessories": [
+    {
+      "id": "e153",
+      "title": " Навушники RZTK MS300 Black",
+      "price": 1050,
+      "category": "headphones&accessories",
+      "details": "Тип навушників          Повнорозмірні  Особливості          Android-сумісність         Apple-сумісність  Тип підключення          Комбіновані  Мікрофон          Вбудований  Інтерфейс під'єднання          3.5 мм (mini-Jack)         Bluetooth 5.0  Колір          Black and Green  Тип кріплення          З наголов'ям  Функції та можливості          Регулятор гучності         Функція відповіді на дзвінок  Підтримка кодеків          AAC         SBC",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/424931303.jpg"
+    }
+  ],
+  "software": [
+    {
+      "id": "fd45",
+      "title": " Операційна система Windows 11 Для дому на 1ПК (ESD - електронна ліцензія в конверті, всі мови) (KW9-00664)",
+      "price": 6200,
+      "category": "software",
+      "details": "Версія ОС          Windows 11  Тип продукту          ESD - електронний ключ  Розрядність          64-розрядні  Тип користувача          Домашнє використання  Мова          Англійська",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/353991976.jpg"
+    }
+  ],
+  "microphones": [
+    {
+      "id": "4fdd",
+      "title": "Мікрофон Trust GXT 244 Buzz USB Streaming Microphone (23466)",
+      "price": 999,
+      "category": "microphones",
+      "details": "Тип          Конденсаторні  Спрямування          Всенаправлені  Чутливість          -36  Вага          748  Діапазон частот          30 - 18000  Довжина шнура          1.8  Розміри          205 х 220 х 250  Спротив          32 Ом  Колір          Чорний  Країна реєстрації бренду          Нідерланди  Гарантія          12 місяців",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/21136309.jpg"
+    }
+  ],
+  "networkequipment": [
+    {
+      "id": "f0b3",
+      "title": "Характеристики Маршрутизатор ASUS RT-AX52 (90IG08T0-MO3H00 / 90IG08T0-MU2H00)",
+      "price": 2400,
+      "category": "networkequipment",
+      "details": "Частота роботи Wi-Fi          5 ГГц + 2.4 ГГц (дводіапазонний)  Швидкість LAN портів          1 Гбіт/с  Стандарт зв'язку Wi-Fi          Wi-Fi 6 (802.11ax)  Стандарт швидкості Wi-Fi          AX1800  Швидкість Wi-Fi          1800 Мбіт/сек  Кількість LAN-портів          3  Особливості          Пріоритезація трафіку (QoS)",
+      "img": "https://content.rozetka.com.ua/goods/images/big/387329901.jpg"
+    }
+  ],
+  "smartphones": [
+    {
+      "id": "e0cd",
+      "title": " Мобільний телефон Apple iPhone 15 Pro Max 256GB Black Titanium (MU773RX/A)",
+      "price": 53111,
+      "category": "smartphones",
+      "details": "Дисплей  Діагональ екрана          6.7  Роздільна здатність дисплея          2796x1290  Тип матриці          OLED (Super Retina XDR)  Частота оновлення екрана          120 Гц  Матеріал екрана          Ceramic Shield  SIM-картки  Кількість SIM-карток          2  Формат SIM-картки          Nano-SIM         e-SIM  Функції пам'яті  Вбудована пам'ять          256 ГБ  Максимальний обсяг підтримуваної карти пам'яті          Немає",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/364834195.jpg"
+    }
+  ],
+  "tvs": [
+    {
+      "id": "01a6",
+      "title": " Телевізор Samsung UE43T5300AUXUA",
+      "price": 124445,
+      "category": "tvs",
+      "details": "Діагональ екрана          43\"  Підтримка Smart TV          з Smart TV  Бездротові можливості          WI-Fi  Роздільна здатність          1920x1080  Частота оновлення          60 Гц  Платформа          Tizen  Колір рамки          Чорний  Технології          HDR  Вихідна потужність звуку, Вт          20  Країна-виробник          В'єтнам  Діапазони цифрового тюнера          DVB-C",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/443054515.jpg"
+    }
+  ],
+  "camera": [
+    {
+      "id": "edd0",
+      "title": " IP-камера TP-LINK Tapo C200",
+      "price": 1511,
+      "category": "camera",
+      "details": "Тип\n\n        Дротові\n\nІнфрачервона підсвітка\n\n        до 9 м\n\nВид\n\n        Корпусні\n\nІнтерфейси\n\n        Micro SD\n        Wi-Fi\n\nРоздільна здатність відео\n\n        1920x1080\n\nРозмір матриці\n\n        1/2.9\"\n\nФормат відео\n\n        H.264",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/23032949.jpg"
+    }
+  ],
+  "accessoriesforsmartphones": [
+    {
+      "id": "a77f",
+      "title": " Панель Apple MagSafe Silicone Case для Apple iPhone 15 Pro Max Light Blue (MWNR3ZM/A)",
+      "price": 2811,
+      "category": "accessoriesforsmartphones",
+      "details": "Форм-фактор\n\n        Панель\n\nМатеріал\n\n        Силікон\n\nОсобливості\n\n        Можливість використовувати бездротовий ЗП\n\nКолір\n\n        Light Blue",
+      "img": "https://content.rozetka.com.ua/goods/images/big/414416327.jpg"
+    }
+  ],
+  "gameconsoles": [
+    {
+      "id": "7f08",
+      "title": " Ігрова приставка Sony PlayStation 5 Slim",
+      "price": 25000,
+      "category": "gameconsoles",
+      "details": "Процесор\n\n        AMD Ryzen Zen 2, 8 ядер 16 потоків, 3.5 ГГц\n\nОперативна пам'ять\n\n        GDDR6 16 ГБ, 2450 МГц\n\nВідеопам'ять\n\n        AMD Radeon RDNA 2, 2.23 ГГц (10.3 терафлопс)\n\nПлатформа\n\n        Playstation 5\n\nІнтерфейси\n\n        2x USB Type-C\n        3x USB Type-A\n        1x HDMI",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/391885922.jpg"
+    }
+  ],
+  "audiotechnic": [
+    {
+      "id": "27d4",
+      "title": " Аудіоінтерфейс Focusrite Scarlett Solo 4th Gen",
+      "price": 7000,
+      "category": "accessoriesforsmartphones",
+      "details": "Входи та виходи\n\n        Jack (6.35 мм)\n        USB\n        XLR\n\nРозрядність\n\n        24 біти\n\nІнтерфейс під'єднання\n\n        USB\n\nОсобливості\n\n        З фантомним живленням\n\nЧастота дискретизації\n\n        192 кГц",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/411452078.jpg"
+    }
+  ],
+  "refrigerators": [
+    {
+      "id": "03b5",
+      "title": " Холодильник SAMSUNG RB33J3200SA/UA",
+      "price": 24000,
+      "category": "refrigerators",
+      "details": "Загальний об'єм холодильника\n\n        350 л\n\nТип холодильника\n\n        Двокамерний\n\nКлас енергоспоживання\n\n        A+\n\nКорисний об'єм холодильної камери\n\n        230 л\n\nСистема розморожування No Frost (Frost Free)\n\n        Холодильне + морозильне відділення\n\nКорисний об'єм морозильної камери\n\n        98 л\n\nТип компресора\n\n        Інверторний",
+      "img": "https://content.rozetka.com.ua/goods/images/big/359825406.jpg"
+    }
+  ],
+  "kitchen": [
+    {
+      "id": "2ec1",
+      "title": " Мікрохвильова піч Samsung MS23K3614AK",
+      "price": 5000,
+      "category": "kitchen",
+      "details": "Об'єм, л\n\n        23\n\nСпосіб встановлення\n\n        Окрема\n\nТип\n\n        Cоло\n\nКолір\n\n        Чорний\n\nТип керування\n\n        Механічне\n\nДодатково\n\n        Антибактеріальне покриття\n        Дисплей\n        Швидкий старт",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/285253439.jpg"
+    }
+  ],
+  "careandcleaning": [
+    {
+      "id": "002e",
+      "title": " Пилосос BOSCH BGC05AAA1",
+      "price": 3200,
+      "category": "careandcleaning",
+      "details": "Основні характеристики\n\nТип пилососа\n\n        Контейнерного типу (без мішка)\n\nОб'єм пилозбірника, л\n\n        1.5\n\nРівень шуму, дБ\n\n        78\n\nТип прибирання\n\n        Сухе\n\nДовжина шнура\n\n        6 м\n\nПотужність\n\nПотужність\n\n        700 Вт\n\nРегулювання потужності\n\n        Регулювання повітряного потоку\n\nЕквівалент потужності екодвигуна\n\n        2400 Вт",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/231746871.jpg"
+    }
+  ],
+  "conditioner": [
+    {
+      "id": "ea9e",
+      "title": " Кондиціонер ARDESTO ARD-E09-R32",
+      "price": 10000,
+      "category": "conditioner",
+      "details": "Площа приміщення, м²\n\n        25\n\nТип встановлення внутрішнього блока\n\n        Настінний\n\nВид\n\n        Звичайний\n\nРежими роботи\n\n        Автоматичний\n        Обігрів\n        Осушення\n        Охолодження\n        Турборежим\n\nРобота за мінусової температури, °C\n\n        -7\n\nWi-Fi модуль\n\n        Пульт ДК\n\nФункції\n\n        Дисплей\n        Регулювання напрямку повітряного потоку\n        Таймер",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/444294476.jpg"
+    }
+  ],
+  "furniture": [
+    {
+      "id": "757d",
+      "title": "Характеристики Самоклеюча Захистна Плівка для Меблів та Фурнітури від Кігтів Котів та Подряпин інших домашніх тварин, набір (6 шт 40*30 см+30 гвинтів) , My Home My Office",
+      "price": 321,
+      "category": "furniture",
+      "details": "ип\n\n        Набори\n\nКраїна-виробник товару\n\n        Україна",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/194802838.jpg"
+    }
+  ],
+  "dishes": [
+    {
+      "id": "6a37",
+      "title": " Набір посуду Tefal Ingenio Emotion 13 предметів (L897SD74)",
+      "price": 6400,
+      "category": "dishes",
+      "details": "Сумісність з джерелами тепла\n\n        Індукційні плити\n        Використання в духовці\n        Газові плити\n        Галогенні плити\n        Електричні плити\n        Склокерамічні плити\n        Усі види плит\n\nКомплектація\n\n        Сковорода 22 см\n        Сковорода 28 см сотейник 24 см (3.3 л) Сковорода ВОК 26 см (3.7 л)\n        Ківш 16 см (1.7 л)\n        Ківш 20 см (2.7 л)\n        Скляні кришки 16/20/24 см.\n        Пластикові кришки 16/20 см\n        Знімні ручки 2 шт\n        Гарантійний талон",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/292339074.jpg"
+    }
+  ],
+  "lighting": [
+    {
+      "id": "3860",
+      "title": " Трековий світильник VIDEX 30 W 4100 K чорний ",
+      "price": 500,
+      "category": "lighting",
+      "details": "        Трекові\n\nТип використовуваної лампи\n\n        Світлодіодні (LED)\n\nТип підключення\n\n        1-фазні світильники\n\nКолір світіння\n\n        Нейтральний\n\nКолірна температура\n\n        4100K\n\nПотужність, Вт\n\n        30 Вт\n\nНапруга, В\n\n        100-265 В",
+      "img": "https://content.rozetka.com.ua/goods/images/big/425267203.jpg"
+    }
+  ],
+  "tools": [
+    {
+      "id": "f855",
+      "title": " Набір інструментів RZTK HTK 110",
+      "price": 1800,
+      "category": "tools",
+      "details": "Призначення\n\n        Для авто\n        Для домашнього використання\n        Універсальний\n\nВага, кг\n\n        6.33\n\nДодаткові характеристики\n\n        Розмір головок: 4-32 мм\n        Квадрат: ½\", ¼\"\n        Матеріал кейса: ударостійкий пластик\n        Розміри кейсу: 355x260x73 мм\n\nПредметів у наборі, шт\n\n        110",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/294078436.jpg"
+    }
+  ],
+  "equipment": [
+    {
+      "id": "ca0e",
+      "title": " Генератор бензиновий Rato R3000-L 2.7/3 кВт AVR",
+      "price": 13500,
+      "category": "equipment",
+      "details": "омінальна потужність\n\n        2.7\n\nВид палива\n\n        Бензин\n\nТип альтернатора\n\n        Синхронний\n\nСистема пуску\n\n        Ручний стартер\n\nКількість фаз\n\n        Однофазний\n\nКраїна-виробник товару\n\n        Китай\n\nОснащення\n\n        Автоматичний регулятор напруги (AVR)\n        Вольтметр\n        Датчик рівня палива\n        Захист від перевантаження\n\nМаксимальна потужність\n\n        3 кВт",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/317307120.jpg"
+    }
+  ],
+  "carproducts": [
+    {
+      "id": "c788",
+      "title": "Автомобільний акумулятор Bosch S4 6CT-74 А",
+      "price": 4500,
+      "category": "carproducts",
+      "details": "Тип запчастини\n\n        Оригінал\n\nЄмність, А*год\n\n        74\n\nПусковий струм, А (EN)\n\n        680\n\nНапруга, В\n\n        12\n\nПолярність\n\n        Пряма (L+)\n\nТип транспорту\n\n        Легковий\n\nВага, кг\n\n        17.02",
+      "img": "https://content.rozetka.com.ua/goods/images/big/382196458.jpg"
+    }
+  ],
+  "electricalinstallationequipment": [
+    {
+      "id": "ae74",
+      "title": " Стабілізатор напруги Real-El Stab Slim-2000 White (EL122400008)",
+      "price": 2800,
+      "category": "electricalinstallationequipment",
+      "details": "Максимальна потужність навантаження при вхідній напрузі 220 В, кВт\n\n        1.6\n\nВихідна потужність при вхідній напрузі 220 В, кВт\n\n        1.6\n\nРекомендоване застосування\n\n        Для побутової техніки\n\nЗахист від\n\n        Високовольтних імпульсів\n        Короткого замикання\n        Підвищеної напруги\n        Зниженої напруги\n        Перегрівання\n        Перевантаження\n\nВхідна частота, Гц\n\n        50",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/27738890.jpg"
+    }
+  ],
+  "baths": [
+    {
+      "id": "04e5",
+      "title": " Душова кабіна SERENA SE 30150 M 80 з піддоном",
+      "price": 6750,
+      "category": "baths",
+      "details": "Тип\n\n        Душова кабіна\n\nЗадні стінки\n\n        Немає\n\nФорма\n\n        Кутова\n\nВисота піддону\n\n        15 см\n\nМатеріал піддону\n\n        Акрил\n\nКут встановлення\n\n        Універсальний\n\nГлибина всередині піддону, см\n\n        4\n\nКомплектація\n\n        Піддон\n        Ручки\n        Сифон\n\nОсобливості\n\n        Алюмінієвий профіль\n        Металеві ручки\n        Верхні та нижні ролики\n        Металеве зливання",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/346443840.jpg"
+    }
+  ],
+  "sinks&mixers": [
+    {
+      "id": "1d1a",
+      "title": " Кухонна мийка ADAMANT Horizon чорна c сифоном Nova + кухонний змішувач та дозатор",
+      "price": 4900,
+      "category": "sinks&mixers",
+      "details": "У комплекті\n\n        Дозатор\n        Змішувач\n        Сифон\n\nМатеріал\n\n        Граніт\n\nНазва кольору виробника з каталогу\n\n        Чорний_03_adamant\n\nТип встановлення\n\n        Урізна",
+      "img": "https://content.rozetka.com.ua/goods/images/big/340995762.jpg"
+    }
+  ],
+  "keramic": [
+    {
+      "id": "5451",
+      "title": " Керамічний обігрівач ZENHEISSER Cube H-600 60х60см з кнопкою, білий мармур + ніжки",
+      "price": 1600,
+      "category": "keramic",
+      "details": "Потужність, Вт\n\n        650\n\nЧас безперервної роботи\n\n        24 години год\n\nМонтаж\n\n        Настінний\n        Підлоговий\n\nФункції захисту\n\n        Захист від перегріву\n\nПлоща обслуговування, кв. м\n\n        14\n\nКерування\n\n        Механічне\n\nТип термостата\n\n        Без терморегулятора\n\nВид нагрівального елементу\n\n        Карбоновий\n\nПризначення\n\n        Побутовий\n\nКлас захисту від пилу та вологи\n\n        IP33",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/298402128.jpg"
+    }
+  ],
+  "consumables": [
+    {
+      "id": "a73d",
+      "title": " Набір Пінополістирол CARBON ECO 30x580x1180 мм 13 шт Упаковка (Е600242) + Дюбель для теплоізоляції з пластиковим стрижнем GF Champion 10x220 мм 50 шт Сірий (MT00288)",
+      "price": 1600,
+      "category": "consumables",
+      "details": "",
+      "img": "https://content.rozetka.com.ua/goods/images/big/444168488.jpg"
+    }
+  ],
+  "gardenmachinery": [
+    {
+      "id": "5051",
+      "title": " Газонокосарка електрична RZTK LM 1532E",
+      "price": 2800,
+      "category": "gardenmachinery",
+      "details": "Тип\n\n        Електричні\n\nШирина захоплення\n\n        32 см\n\nТип пересування\n\n        Несамохідні\n\nРекомендована площа\n\n        400 м²\n\nПотужність двигуна, кВт\n\n        1.5\n\nКраїна-виробник\n\n        Китай\n\nВид\n\n        Газонокосарки\n\nОсобливості\n\n        Заднє викидання\n        Мульчування\n\nОб'єм травозбірника\n\n        30",
+      "img": "https://content.rozetka.com.ua/goods/images/big/8309230.jpg"
+    }
+  ],
+  "gardentools": [
+    {
+      "id": "aafa",
+      "title": " Тачка будівельна двоколісна Budfix WB6404W 200 кг (70029)",
+      "price": 2800,
+      "category": "gardentools",
+      "details": "",
+      "img": "https://content.rozetka.com.ua/goods/images/big/15074841.jpg"
+    }
+  ],
+  "plantsandcare": [
+    {
+      "id": "bad7",
+      "title": " Препарат Жива Земля БІТОКСИБАЦИЛІН-БТУ (BITOXIBACILIN-BTU) ",
+      "price": 2800,
+      "category": "plantsandcare",
+      "details": "ризначення\n\n        Для баштанних культур\n        Для бегонії\n        Для газонів\n        Для гороху\n        Для декоративно-листяних рослин\n        Для зернобобових культур\n        Для кактусів\n        Для квасолі\n        Для квітучих рослин\n        Для кімнатних рослин\n        Для листяних дерев і чагарників\n        Для люпину\n        Для нуту\n        Для овочевих культур\n        Для олійних культур\n        Для пальм\n        Для пеларгоній\n        Для плодово-ягідних рослин\n        Для проса\n        Для розсади\n        Для садових рослин\n        Для сочевиці\n        Для сої\n        Для тепличних рослин\n        Для хвойних і декоративних рослин\n        Для хлібних культур\n        Для цибулинних\n        Для цитрусових\n        Для ячменю\n        Універсальні",
+      "img": "https://content1.rozetka.com.ua/goods/images/big/365000855.jpg"
+    }
+  ],
+  "swimmingpools": [
+    {
+      "id": "77ad",
+      "title": " Басейн каркасний круглий Intex 366 х 76 см з фільтром насосом (Intex 28212)",
+      "price": 8000,
+      "category": "swimmingpools",
+      "details": "Вид\n\n        Каркасні\n\nОб'єм, л\n\n        6503\n\nФорма\n\n        Кругла\n\nКраїна-виробник\n\n        Китай\n\nКонструкція\n\n        Жорсткі борти\n\nШирина, см\n\n        366\n\nМатеріал\n\n        ПВХ\n\nВага, кг\n\n        24",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/181832361.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": "765c",
+      "title": "Meet",
+      "date": 12,
+      "month": 6,
+      "year": 2024
+    },
+    {
+      "id": "7ea8",
+      "title": "Wor",
+      "date": 1,
+      "month": 6,
+      "year": 2024
+    },
+    {
+      "id": "b16a",
+      "title": "Meet",
+      "date": 18,
+      "month": 6,
+      "year": 2024
+    },
+    {
+      "id": "4b4d",
+      "title": "Meet",
+      "date": 22,
+      "month": 6,
+      "year": 2024
+    }
+  ],
+  "people": {
+    "jan": 0,
+    "feb": 0,
+    "march": 0,
+    "apr": 0,
+    "may": 0,
+    "jun": 3,
+    "jul": 14,
+    "aug": 0,
+    "sep": 0,
+    "oct": 0,
+    "nov": 0,
+    "dec": 0
+  },
+  "orders": {
+    "total": 9,
+    "success": 4,
+    "inProgress": 6,
+    "canselled": 3
+  },
+  "income": {
+    "jan": 0,
+    "feb": 0,
+    "mar": 0,
+    "apr": 0,
+    "may": 0,
+    "jun": 0,
+    "jul": 265184,
+    "aug": 0,
+    "sep": 0,
+    "oct": 0,
+    "nov": 0,
+    "dec": 0
+  },
+  "tasks": {
+    "completed": 42,
+    "inProgress": 0,
+    "overdue": 0
+  },
+  "taskList": [
+    {
+      "id": "0",
+      "title": "Do push to task",
+      "desc": "create push",
+      "deadline": "2024-07-19",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1",
+      "title": "Do task Component",
+      "desc": "Create task component with desc and data time",
+      "deadline": "2024-07-19",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719056583067",
+      "title": "Tasks comp",
+      "desc": "Create removing tasks from done tab",
+      "deadline": "2024-06-22",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719057205213",
+      "title": "Counter tasks",
+      "desc": "Create counter in dashboard, to count done tasks\n",
+      "deadline": "2024-06-22",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "171906139698",
+      "title": "Finish the task component",
+      "desc": "Finish the task component",
+      "deadline": "2024-06-22",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719150996330",
+      "title": "login component ",
+      "desc": "Create login component with login\n",
+      "deadline": "2024-06-23",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719162444428",
+      "title": "singup",
+      "desc": "create singup page ",
+      "deadline": "2024-06-23",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719162492821",
+      "title": "auth ",
+      "desc": "create auth component",
+      "deadline": "2024-06-23",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719163036484",
+      "title": "fix task",
+      "desc": "when task was add it make decrement active tasks",
+      "deadline": "2024-06-23",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719243129300",
+      "title": "counter users & new ",
+      "desc": "create correct counter users & new users with customers page and search inside it",
+      "deadline": "2024-06-24",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719243216068",
+      "title": "create correct visible name current user in navbar",
+      "desc": "CustomerSearchPipe",
+      "deadline": "2024-06-24",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719435684697",
+      "title": "Create edit user component",
+      "desc": "Create edit user component ",
+      "deadline": "2024-06-27",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719435708929",
+      "title": "Create profile",
+      "desc": "Create profile details for user\n",
+      "deadline": "2024-06-27",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719435757657",
+      "title": "Search with filter Employee",
+      "desc": "add Search with filter Employee",
+      "deadline": "2024-06-27",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719512771423",
+      "title": "Add location & company details ",
+      "desc": "Add location & company details to customer",
+      "deadline": "2024-06-27",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719512874322",
+      "title": "Add correct user edit for each user, and admin for edit any user",
+      "desc": "Add correct user edit for each user, and admin for edit any user",
+      "deadline": "2024-06-27",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719592958880",
+      "title": "Create calendar",
+      "desc": "Create calendar",
+      "deadline": "2024-06-28",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719678852960",
+      "title": "deadlines model",
+      "desc": "made model for deadlines arr",
+      "deadline": "2024-06-30",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719859767370",
+      "title": "gfdgd",
+      "desc": "",
+      "deadline": "2024-07-17",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719860516244",
+      "title": "add manual create event",
+      "desc": "",
+      "deadline": "2024-07-01",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1719860573675",
+      "title": "Create event model & event service with db data",
+      "desc": null,
+      "deadline": "2024-07-01",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1720624556379",
+      "title": "test crmarket ",
+      "desc": "",
+      "deadline": "2024-07-10",
+      "isDone": true,
+      "projectName": "CRMarket"
+    },
+    {
+      "id": "1720625258984",
+      "title": "test crmarket",
+      "desc": "",
+      "deadline": "2024-07-10",
+      "isDone": true,
+      "projectName": "CRMarket"
+    },
+    {
+      "id": "1720625369375",
+      "title": "test crmate",
+      "desc": "",
+      "deadline": "2024-07-10",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1720626870337",
+      "title": "Redesign tesk component ",
+      "desc": "",
+      "deadline": "2024-07-10",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1721221797456",
+      "title": "Refactor dashboard with diagrams",
+      "desc": "",
+      "deadline": "2024-07-17",
+      "isDone": true,
+      "projectName": "CRMate"
+    },
+    {
+      "id": "1721221904244",
+      "title": "Create customer filter by employye position",
+      "desc": "",
+      "deadline": "2024-07-17",
+      "isDone": true,
+      "projectName": "CRMate"
+    }
+  ],
+  "users": [
+    {
+      "id": "0",
+      "userName": "Limzzy",
+      "email": "rainymasster@gmail.com",
+      "password": "123123",
+      "isEmployee": true,
+      "isAdmin": true,
+      "userLastName": "head",
+      "position": "Director",
+      "company": "CRMate",
+      "location": "Ukraine, Lviv"
+    },
+    {
+      "id": "e998",
+      "userName": "Mira",
+      "userLastName": "Yakob",
+      "email": "miraqqle@gmail.com",
+      "password": "123",
+      "isEmployee": true,
+      "isAdmin": true,
+      "position": "UX/UI Designer",
+      "company": "CRMate",
+      "location": "Ukraine, Lviv"
+    },
+    {
+      "id": "0473",
+      "userName": "Roma",
+      "userLastName": "Veseliy",
+      "email": "romaveseliy@gmail.com",
+      "password": "roma123",
+      "isEmployee": true,
+      "isAdmin": false,
+      "position": "Manager",
+      "company": "CRMate",
+      "location": "Ukraine, Lviv"
+    },
+    {
+      "id": "1444",
+      "userName": "Vova",
+      "userLastName": "Cheburek",
+      "email": "vCheb@gmail.com",
+      "password": "cheburek",
+      "isEmployee": true,
+      "isAdmin": false,
+      "position": "Developer",
+      "company": "CRMate",
+      "location": "Ukraine, Lviv"
+    },
+    {
+      "id": "6cc2",
+      "userName": "Vanya",
+      "userLastName": "Chelik",
+      "email": "Chelik@gmail.com",
+      "password": "123123",
+      "isEmployee": false,
+      "isAdmin": false,
+      "position": "Clown",
+      "company": "CRMate"
+    },
+    {
+      "id": "cb4e",
+      "userName": "vanya",
+      "userLastName": "cheli",
+      "email": "Chelik@gmail.com",
+      "password": "123",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "39b5",
+      "userName": "John",
+      "userLastName": "Smith",
+      "email": "Jsmith@gmail.com",
+      "password": "123",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "d1b5",
+      "userName": "big ",
+      "userLastName": "Jo",
+      "email": "bJO@gmail.com",
+      "password": "123",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "63b3",
+      "userName": "Smart",
+      "userLastName": "Tommy",
+      "email": "Stommy@gmail.com",
+      "password": "123",
+      "isEmployee": true,
+      "isAdmin": false
+    },
+    {
+      "id": "1560",
+      "userName": "Dumb",
+      "userLastName": "Jane",
+      "email": "Djane@gmail.com",
+      "password": "123",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "c802",
+      "userName": "Little",
+      "userLastName": "May",
+      "email": "lmay@gmail.com",
+      "password": "123",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "bbac",
+      "userName": "123",
+      "userLastName": "123",
+      "email": "123312312@GFDG",
+      "password": "123",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "d745",
+      "userName": "Quer",
+      "userLastName": "Cher",
+      "email": "Quer@gmail.com",
+      "password": "123",
+      "whenRegister": "24-06-2024",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "cca2",
+      "userName": "Vlad",
+      "userLastName": "popadenko",
+      "email": "vp@gmail.com",
+      "password": "123",
+      "whenRegister": "24-06-2024",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "75b2",
+      "userName": "Dima",
+      "userLastName": "t",
+      "email": "dt@gmail.com",
+      "password": "123",
+      "whenRegister": "24-06-2024",
+      "isEmployee": false,
+      "isAdmin": false
+    },
+    {
+      "id": "8693",
+      "userName": "James",
+      "userLastName": "Johnson",
+      "email": "JJ@gmail.com",
+      "password": "123",
+      "location": "London, UK",
+      "company": "CRMate",
+      "whenRegister": "27-06-2024"
+    },
+    {
+      "id": "cf68",
+      "userName": "Oleg",
+      "userLastName": "Mon",
+      "email": "Omon@gmail.com",
+      "password": "123123",
+      "location": "Ukraine",
+      "company": "",
+      "whenRegister": "17-07-2024"
+    }
+  ],
+  "orderList": [
+    {
+      "0": {
+        "title": " Монитор 27 Samsung Odyssey AG50 S27AG502NI (LS27AG502PIXCI)",
+        "img": "https://content1.rozetka.com.ua/goods/images/big/248368726.jpg",
+        "price": 9999,
+        "details": "Частота оновлення:165 Гц Діагональ дисплея:27 Максимальна роздільна здатність дисплея:2560x1440 (2K QHD):Час реакції матриці:1 мс (GTG):Яскравість дисплея: 350 кд/м2:Тип матриці",
+        "id": "6c7d",
+        "category": "monitors"
+      },
+      "1": {
+        "title": " Монитор 27 Samsung Odyssey AG50 S27AG502NI (LS27AG502PIXCI)",
+        "img": "https://content1.rozetka.com.ua/goods/images/big/248368726.jpg",
+        "price": 9999,
+        "details": "Частота оновлення:165 Гц Діагональ дисплея:27 Максимальна роздільна здатність дисплея:2560x1440 (2K QHD):Час реакції матриці:1 мс (GTG):Яскравість дисплея: 350 кд/м2:Тип матриці",
+        "id": "6c7d",
+        "category": "monitors"
+      },
+      "id": "23e2",
+      "status": "Succsess",
+      "name": "Mirowsas Yakopb",
+      "address": "Lviv Striyska 52311",
+      "tel": "+38095359814",
+      "sum": 19998,
+      "date": "17-07-2024"
+    },
+    {
+      "0": {
+        "id": "3860",
+        "title": " Трековий світильник VIDEX 30 W 4100 K чорний ",
+        "price": 500,
+        "category": "lighting",
+        "details": "        Трекові\n\nТип використовуваної лампи\n\n        Світлодіодні (LED)\n\nТип підключення\n\n        1-фазні світильники\n\nКолір світіння\n\n        Нейтральний\n\nКолірна температура\n\n        4100K\n\nПотужність, Вт\n\n        30 Вт\n\nНапруга, В\n\n        100-265 В",
+        "img": "https://content.rozetka.com.ua/goods/images/big/425267203.jpg"
+      },
+      "id": "3cff",
+      "status": "Succsess",
+      "name": "Vasy",
+      "address": "Lviv Striyska 523",
+      "tel": "+380953598412",
+      "sum": 500,
+      "date": "17-07-2024"
+    },
+    {
+      "0": {
+        "id": "9f02",
+        "title": "Комп'ютер Expert PC Ultimate (I14600K.32.S1.4060.G12016) [101723]",
+        "price": 61000,
+        "category": "pc",
+        "details": "Процесор          Чотирнадцятиядерний Intel Core i5-14600KF (3.5 - 5.3 ГГц)  Відеокарта          GeForce GTX 1660 Super  Обсяг оперативної пам'яті          32 ГБ  Потужність БЖ          750 Вт  Розміри          431 х 413 х 215 мм мм  Комплект постачання          Комп'ютер • кабель живлення • документація  Додаткові можливості          Ні  Обсяг SSD          1 ТБ  Обсяг відеопам'яті          8 ГБ  Кількість ядер процесора          14  Тип відеокарти          Дискретна  Обсяг HDD          1 ТБ",
+        "img": "https://content.rozetka.com.ua/goods/images/big/419258861.jpg"
+      },
+      "id": "67af",
+      "date": "17-07-2024",
+      "status": "Cancelled",
+      "name": "Roma",
+      "address": "Velikiy",
+      "tel": "+380953598404",
+      "sum": 61000
+    },
+    {
+      "0": {
+        "id": "ca0e",
+        "title": " Генератор бензиновий Rato R3000-L 2.7/3 кВт AVR",
+        "price": 13500,
+        "category": "equipment",
+        "details": "омінальна потужність\n\n        2.7\n\nВид палива\n\n        Бензин\n\nТип альтернатора\n\n        Синхронний\n\nСистема пуску\n\n        Ручний стартер\n\nКількість фаз\n\n        Однофазний\n\nКраїна-виробник товару\n\n        Китай\n\nОснащення\n\n        Автоматичний регулятор напруги (AVR)\n        Вольтметр\n        Датчик рівня палива\n        Захист від перевантаження\n\nМаксимальна потужність\n\n        3 кВт",
+        "img": "https://content2.rozetka.com.ua/goods/images/big/317307120.jpg"
+      },
+      "1": {
+        "id": "e0cd",
+        "title": " Мобільний телефон Apple iPhone 15 Pro Max 256GB Black Titanium (MU773RX/A)",
+        "price": 53111,
+        "category": "smartphones",
+        "details": "Дисплей  Діагональ екрана          6.7  Роздільна здатність дисплея          2796x1290  Тип матриці          OLED (Super Retina XDR)  Частота оновлення екрана          120 Гц  Матеріал екрана          Ceramic Shield  SIM-картки  Кількість SIM-карток          2  Формат SIM-картки          Nano-SIM         e-SIM  Функції пам'яті  Вбудована пам'ять          256 ГБ  Максимальний обсяг підтримуваної карти пам'яті          Немає",
+        "img": "https://content1.rozetka.com.ua/goods/images/big/364834195.jpg"
+      },
+      "2": {
+        "id": "e0cd",
+        "title": " Мобільний телефон Apple iPhone 15 Pro Max 256GB Black Titanium (MU773RX/A)",
+        "price": 53111,
+        "category": "smartphones",
+        "details": "Дисплей  Діагональ екрана          6.7  Роздільна здатність дисплея          2796x1290  Тип матриці          OLED (Super Retina XDR)  Частота оновлення екрана          120 Гц  Матеріал екрана          Ceramic Shield  SIM-картки  Кількість SIM-карток          2  Формат SIM-картки          Nano-SIM         e-SIM  Функції пам'яті  Вбудована пам'ять          256 ГБ  Максимальний обсяг підтримуваної карти пам'яті          Немає",
+        "img": "https://content1.rozetka.com.ua/goods/images/big/364834195.jpg"
+      },
+      "id": "52bd",
+      "date": "17-07-2024",
+      "status": "In progress",
+      "name": "Mirowsas Yakopb",
+      "address": "Kraynikovos lisova 19",
+      "tel": "+380953598404",
+      "sum": 119722
+    },
+    {
+      "0": {
+        "title": "  Планшет Apple iPad 10.2 2021 Wi-Fi 64 GB",
+        "img": "https://content2.rozetka.com.ua/goods/images/big/224009737.jpg",
+        "price": 16499,
+        "details": "СеріяiPad 2021 Вид екрана Ємнісний Діагональ екрана: 10.2 Вбудована пам'ять64 ГБПокриття екранаОлеофобне покриттяБездротові можливостіBluetoothWi-FiОпераційна системаiPadOSКількість SIM-картВідсутніТип матриціIPSКраїна-виробникКитайЧастота процесорапонад 1.2 ГГцПроцесорApple A13 BionicРоздільна здатність екрана2160х1620Кількість ядер процесора6Навігаційна системаНемаєРоз'ємиLightning",
+        "id": "8aa9",
+        "category": "tablets"
+      },
+      "1": {
+        "id": "0f17",
+        "title": " Bluetooth-адаптер RZTK BT 5.3",
+        "price": 250,
+        "category": "cabels&adapters",
+        "details": "Інтерфейс під'єднаного пристроюBluetoothРозміри14 х 14 х 0.5 ммСумісністьWindows 7/8.1/10/11Інтерфейс підключенняUSB 2.0ВидАдаптериВерсія BluetoothBluetooth 5.3КолірBlackКомплектаціяBluetooth-адаптерІнструкція з експлуатаціїКраїна-виробникКитайДодаткові характеристикиШвидкість передачі: до 3 Мбіт/сМаксимальний радіус дії без перешкод: до 20 мЧастота передачі: 2.403 - 2.480 ГГцЧіп: RTL8761BФункція Plug and PlayТехнологія Dual-mode Low PowerЗворотна сумісність з Bluetooth 2.0 / 2.1 / 3.0 / 4.0 / 4.1 / 4.2 / 5.0 / 5.1 / 5.2 / 5.3",
+        "img": "https://content1.rozetka.com.ua/goods/images/big/385573851.jpg"
+      },
+      "id": "ceda",
+      "date": "19-07-2024",
+      "status": "In progress",
+      "name": "Miroslav Yakob",
+      "address": "Kraynikovo 12a",
+      "tel": "+380953598405",
+      "sum": 16749
+    }
+  ]
+}

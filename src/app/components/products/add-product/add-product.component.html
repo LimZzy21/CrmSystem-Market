@@ -1,0 +1,80 @@
+<div class="container mt-3">
+    <form  [formGroup]="addProduct">
+        <div class="form-group">
+            <label for="exampleFormControlInput1">Title</label>
+            <input type="text" class="form-control" formControlName="title" id="exampleFormControlInput1" placeholder="title">
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlInput1">Img link</label>
+            <input type="text" class="form-control" formControlName="img" id="exampleFormControlInput1" placeholder="img">
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlInput1">Price</label>
+            <input type="number" class="form-control" formControlName="price" id="exampleFormControlInput1" placeholder="price">
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlSelect1">Choose category</label>
+            <select class="form-control" formControlName="category" id="exampleFormControlSelect1">
+                <optgroup label="PC">
+                    <option value="monitors">Monitors</option>
+                    <option value="tablets">Tablets</option>
+                    <option value="pc">PC</option>
+                    <option value="laptops">Laptops</option>
+                    <option value="computercomponents">Computer components</option>
+                    <option value="cabels&adapters">Cabels & adapters</option>
+                    <option value="headphones&accessories">Headphones & accessories</option>
+                    <option value="software">Software</option>
+                    <option value="microphones">Microphones</option>
+                    <option value="networkequipment">Network equipment</option>
+                </optgroup>
+            <optgroup label="Electronic">
+                <option value="smartphones">Smartphones</option>
+                <option value="tvs">TVs</option>
+                <option value="camera">Camera</option>
+                <option value="accessoriesforsmartphones">Accessories for Smartphones</option>
+                <option value="gameconsoles">Game consoles</option>
+                <option value="audiotechnic">Audio technic</option>
+                <option value="refrigerators">Refrigerators</option>
+                <option value="kitchen">Kitchen</option>
+                <option value="careandcleaning">Care and cleaning</option>
+                <option value="conditioner">Conditioner</option>
+            </optgroup>
+            <optgroup label="home">
+                <option value="furniture">Furniture</option>
+                <option value="dishes">Dishes</option>
+                <option value="lighting">Lighting</option>
+            </optgroup>
+            <optgroup label="Tools">
+                <option value="tools">Tools</option>
+                <option value="equipment">Equipment</option>
+                <option value="carproducts">Car products</option>
+                <option value="electricalinstallationequipment">Electrical installation equipment</option>
+            </optgroup>
+            <optgroup label="Plumbing">
+                <option value="baths">Baths</option>
+                <option value="sinks&mixers">Sinks, mixers</option>
+                <option value="keramic">Keramic</option>
+                <option value="consumables">Consumables</option>
+            </optgroup>
+            <optgroup label="Dacha">
+                <option value="gardenmachinery">Garden machinery</option>
+                <option value="gardentools">Garden tools</option>
+                <option value="plantsandcare">Plants and care</option>
+                <option value="swimmingpools">Swimming pools</option>
+
+
+            </select>
+             
+        </div>
+
+
+        <div class="form-group">
+            <label for="exampleFormControlTextarea1">Description</label>
+            <textarea formControlName="details" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+        <div class="form-group">
+            <button type="button" (click)="onHandleAddItem()" class="btn btn-success">Submit!</button>
+
+        </div>
+    </form>
+</div>

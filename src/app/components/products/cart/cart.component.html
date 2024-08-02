@@ -1,0 +1,48 @@
+<div class="container-fluid  row ">
+
+    <div class="row col-8">
+        <div *ngFor="let item of products" class="card p-3 m-2" onload="getSumProducts(item.price)"
+            style="width: 18rem;max-height: 50rem;">
+            <div class="text-end pb-3">
+                <button type="button" class="btn-close " (click)="removeItem(item.id)" aria-label="Close"></button>
+            </div>
+            <img src={{item.img}} class="card-img-top" style="max-height: 24rem;max-width: 20rem;">
+
+            <div class="card-body">
+                <h5 class="card-title">{{item.title}}</h5>
+            </div>
+            <h4 class="m-2">{{item.price |currency:'₴' }}</h4>
+        </div>
+    </div>
+    <div class="col">
+
+        <form [formGroup]="buyProducts">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Name Username</label>
+                <input type="text" class="form-control" formControlName="name" id="exampleInputEmail1" >
+                
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Address</label>
+                <input type="text" class="form-control" formControlName="address" id="exampleInputPassword1">
+            </div>
+            <div class="mb-3">
+                <label for="tel" class="form-label">Telephone</label>
+                <input type="tel" class="form-control" formControlName="tel" id="tel">
+            </div>
+
+            <button type="submit" (click)="onSubmitBuy()" class="btn btn-primary">Submit</button>
+
+            
+        <div *ngIf="isShowModal" class="toast align-items-center" role="alert" aria-live="assertive" aria-atomic="true" style="display:flex;">
+            <div class="d-flex">
+                <div class="toast-body">
+                    Succsess! We will contact with you soon!
+                </div>
+            </div>
+        </div>
+        </form>
+    </div>
+    <h3>Sum: {{sum | currency:'₴'}}</h3>
+    
+</div>

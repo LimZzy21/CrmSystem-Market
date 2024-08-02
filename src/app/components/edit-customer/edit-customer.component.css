@@ -1,0 +1,19 @@
+.notEmployee{
+    background-color: rgb(255, 122, 122);
+    color: black;
+}
+
+.Employee{
+    background-color: rgb(150, 236, 150);
+    color: black;
+}
+.button{
+    border: 1px solid;
+    border-radius: 5px;
+    width: 3rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: auto;
+    height: 100%;
+}

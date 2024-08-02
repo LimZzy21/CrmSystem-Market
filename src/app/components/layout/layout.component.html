@@ -1,0 +1,14 @@
+<div class="row" style="min-height: 100vh;">
+  
+    <div class="col-2 " *ngIf="!isMinimized">
+        <app-navbar [onToggleMinimizeNavBar]="onToggleMinimizeNavBar"></app-navbar>
+            
+    </div>
+
+    <div class="col">
+        <app-content></app-content>
+        <div *ngIf="isMinimized" class="show">
+            <h4 class="m-3" (click)="onToggleMinimizeNavBar()"><i class="bi bi-arrow-bar-right"></i></h4>
+        </div>
+    </div>
+</div>

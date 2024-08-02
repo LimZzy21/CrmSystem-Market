@@ -1,0 +1,68 @@
+<div class="container  ">
+    <div class="input-group mt-4 w-50 mb-3">
+        <input type="text" class="form-control" [(ngModel)]="searchStr" placeholder="Search by name"
+            aria-describedby="basic-addon1">
+
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Filter
+            </button>
+            <ul class="dropdown-menu dropdown-menu-white">
+                <li>
+                    <input type="checkbox" class="btn-check" (click)="filterByPosition('employee')" id="btncheck1" autocomplete="off">
+                    <label [ngClass]="{'active':position == 'employee', 'deactive':position!='employee'}" class="btn text-black" for="btncheck1">Employee</label>
+             </li>
+                <li>
+                    <input type="checkbox" class="btn-check" (click)="filterByPosition('developer')" id="btncheck2" autocomplete="off">
+                    <label [ngClass]="{'active':position == 'developer', 'deactive':position!='developer'}" class="btn text-black" for="btncheck2">Developer</label>
+             </li>
+                <li>
+                    <input type="checkbox" class="btn-check" (click)="filterByPosition('manager')" id="btncheck3" autocomplete="off">
+                    <label [ngClass]="{'active':position == 'manager', 'deactive':position!='manager'}" class="btn text-black" for="btncheck3">Manager</label>
+             </li>
+                <li>
+                    <input type="checkbox" class="btn-check" (click)="filterByPosition('ux/ui designer')" id="btncheck4" autocomplete="off">
+                    <label [ngClass]="{'active':position == 'ux/ui designer', 'deactive':position!='ux/ui designer'}" class="btn text-black" for="btncheck4">UX/UI Designer</label>
+             </li>
+                <li>
+                    <input type="checkbox" class="btn-check" (click)="filterByPosition('director')" id="btncheck5" autocomplete="off">
+                    <label [ngClass]="{'active':position == 'director', 'deactive':position!='director'}" class="btn text-black" for="btncheck5">Director</label>
+             </li>
+                <li>
+                    <input type="checkbox" class="btn-check" (click)="filterByPosition('customer')" id="btncheck6" autocomplete="off">
+                    <label [ngClass]="{'active':position == 'customer', 'deactive':position!='customer'}" class="btn text-black" for="btncheck6">Customer</label>
+             </li>
+               
+            </ul>
+        </div>
+    </div>
+
+
+
+    <div class=" row  mb-3 justify-content-center " >
+        <div class="card col-3 m-2" *ngFor="let c of customers | customerSearch:searchStr | isEmployeeFilter:position ">
+            <div class="card-body">
+                <h5 class="card-title">Email: {{c.email}}</h5>
+                <p class="card-text">Name: {{c.userName}} {{c.userLastName}}</p>
+                <p class="card-text">Registered date: {{c.whenRegister}}</p>
+
+                <div *ngIf="c.isEmployee" class="border employee">
+                    <p><b>Employee</b></p>
+                    <p><b>{{c.position}}</b></p>
+                </div>
+
+
+                <div class="text-end col-12 ">
+                    <button type="button" (click)="userEdit(c.id)" class="btn btn-primary col-5">Edit user</button>
+                </div>
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+
+</div>
